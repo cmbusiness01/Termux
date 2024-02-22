@@ -6,7 +6,7 @@ Installation
 * apt update && apt upgrade
 * apt install wget
 * apt install git
-* git clone https://github.com/Amriez/inmux
+* git clone https://github.com/cmbusiness01/Termux
 * cd inmux
 * sh inmux.sh
 
